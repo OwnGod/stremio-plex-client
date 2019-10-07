@@ -1,0 +1,14 @@
+{
+  "user": {
+    "title": "User or E-mail",
+    "type": "string",
+    "default": "",
+    "required": true
+  },
+  "pass": {
+    "title": "Password",
+    "type": "string",
+    "default": "",
+    "required": true
+  }
+}
